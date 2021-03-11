@@ -4,7 +4,7 @@ In this project fundamental Data Analysis and Machine Learning is done with the 
 
 Libraries used in this project are Pandas, Seaborn, Matplotlib and Scikit-learn.   
 
-Analyses that are done in this project:  
+Analyses done in this project:  
 * Various visualizations are used to detect patterns in the data 
 * An lmplot() shows the strong positive correlation between the yearly amount a customer spends and the length of her / his membership. 
 * The numerical data is then trained, tested and fitted to a linear regression model and the model is evaluated using the test set of the data.  A scatterplot for the y test values against the predicted y values shows that we have a very good model. 
